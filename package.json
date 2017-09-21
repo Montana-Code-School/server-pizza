@@ -1,0 +1,23 @@
+{
+  "name": "pizza-server",
+  "version": "1.0.0",
+  "description": "super pizza server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Montana-Code-School/server-pizza.git"
+  },
+  "author": "Lee, Jeanine, Emily, Erin, Kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Montana-Code-School/server-pizza/issues"
+  },
+  "homepage": "https://github.com/Montana-Code-School/server-pizza#readme",
+  "dependencies": {
+    "eslint": "^4.7.2",
+    "express": "^4.15.4"
+  }
+}
